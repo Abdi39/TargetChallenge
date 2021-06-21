@@ -11,7 +11,7 @@ This project was created as a solution and a respose to the Coding challenge by 
  # Installation
  
  ## IDE
-  - There is a lot of IDE, you can download which ever one is easier for you. Examples of IDE are Netbeans, Eclipse etc.
+  - There is a lot of IDE to use, you can download which ever one is easier for you. Examples of IDE are Netbeans, Eclipse etc.
 
 # Java
   - Mac 
